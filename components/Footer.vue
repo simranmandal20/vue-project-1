@@ -87,7 +87,7 @@
   </div>
   <div class="copyright">c 1997-2025 Netflix, Inc</div>
   </div>
-  
+  <div> screen </div>
 </footer>
   
 

@@ -24,7 +24,7 @@
       </svg>
       <NuxtLink to="/children" class="hover:text-gray-300">Children</NuxtLink>
       <div>bell</div>
-      <div>emoji</div>
+      <div>icons</div>
     </div>
 
   </div>
